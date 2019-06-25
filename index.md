@@ -2,7 +2,7 @@
 layout: default
 ---
 
-A trading company
+A trading company.
 
 [Contact](mailto:{{ site.email }}).
 
